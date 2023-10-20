@@ -6,7 +6,7 @@ Your task will be to find the **location** and **magnitude** of the strongest ea
 You can find some initial code in the [earthquakes.py](./earthquakes.py) file, which you will need to complete.
 
 ## Step 0: Setup
-Make sure you have read the note chapters on [working with files](http://github-pages.ucl.ac.uk/rsd-engineeringcourse/ch01data/060files.html), [Internet data](http://github-pages.ucl.ac.uk/rsd-engineeringcourse/ch01data/061internet.html) and [structured data files](http://github-pages.ucl.ac.uk/rsd-engineeringcourse/ch01data/064JsonYamlXML.html).
+Make sure you have read the note chapters on [working with files](https://github-pages.ucl.ac.uk/rsd-engineeringcourse/ch02data/060files.html), [Internet data](https://github-pages.ucl.ac.uk/rsd-engineeringcourse/ch02data/061internet.html) and [structured data files](https://github-pages.ucl.ac.uk/rsd-engineeringcourse/ch02data/064JsonYamlXML.html).
 
 If you haven't already, fork this repository and clone it on your computer.
 
@@ -21,7 +21,7 @@ The `get_data` function shows how to retrieve the data. However, the function st
 Before you start, take some time to understand the structure of the data. To see the data, you can try different things; for example:
 - Get the response as shown in the code we've given you.
 - Save the response body (`response.text`) in a text file (give the file a `.json` extension to help applications display it nicely!)
-- Open the file in an editor like VS Code (you may want to [automatically format it](https://stackoverflow.com/questions/29973357/how-do-you-format-code-in-visual-studio-code-vscode) to make it look nicer). Some browsers may also display it so that the structure is clear.
+- Open the file in an editor like VS Code (you may want to [automatically format it](https://stackoverflow.com/questions/29973357/how-do-you-format-code-in-visual-studio-code-vscode) to make it look nicer). Some browsers, such as Firefox, may also display it so that the structure is clear.
 
 The following questions may help you explore and understand how the data is laid out:
 - How many broad "sections" does this response comprise?
